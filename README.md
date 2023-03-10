@@ -1,4 +1,44 @@
-### Hi there 👋
+### <p align="center"> Hi there 👋, I'm Paul" </p>
+<hr></hr>
+<p>I'm currently studing <b>Data Science</b> on <i>Warsaw University of Technology</i>, which matches my interest in that field. 
+</p>
+<p>
+I'm into data analysis, developing <b>maschine-learning</b> architectures and <b>backend</b> applications.
+</p>
+<hr></hr>
+
+## 🖨️ Languages and technologies:
+<dl>
+    <dt>
+        <a href="https://www.python.org"><img src="img/python.png" height="40em" align="center" style="padding:0.5em" alt="Python" title="Python"/>Python</a>
+    </dt>
+    <dd>
+        <a href="https://www.tensorflow.org"><img src="img/tensorflow.png" height="40em" style="padding:0.5em" align="center" alt="Tensorflow" title="Tensorflow"/>Tensorflow</a>
+    </dd>
+    <dd>
+        <a href="https://scikit-learn.org/stable/"><img src="img/sklearn.png" height="40em" align="center" alt="Scikit-learn" style="padding:0.5em" title="Scikit-learn"/>Scikit-learn</a>
+    </dd>
+    <dd>
+        <a href="https://www.djangoproject.com"><img src="img/django.png" height="40em" style="padding:0.5em" align="center" alt="Django" title="Django"/>Django</a>
+    </dd>
+    <dt>
+        <a href="https://git-scm.com"><img src="img/git.png" height="40em" align="center" alt="Git" style="padding:0.5em" title="Git"/>Git</a>
+    </dt>
+    <dt>
+        <a href="https://www.gnu.org/software/bash/"><img src="img/bash.png" height="40em" style="padding:0.5em" align="center" alt="Bash" title="Bash"/>Bash</a>
+    </dt>
+    <dt>
+        <a href="https://en.wikipedia.org/wiki/SQL"><img src="img/sql.png" height="40em" align="center" style="padding:0.5em" alt="SQL" title="SQL"/>SQL</a>
+    </dt>
+    <dt>
+        <a href="https://www.docker.com"><img src="img/docker.png" height="40em" align="center" style="padding:0.5em" alt="Docker" title="Docker"/>Docker</a>
+    </dt>
+</dl>
+
+## 📫 How to reach me:
+You can easily reach me at the mail in my github profile. Feel free to follow me on the LinkedIn!
+
+[<img src="img/linkedin.png" height="40em" align="center" alt="Follow Pawlo77 on LinkedIn" title="Follow Pawlo77 on LinkedIn"/>](https://www.linkedin.com/in/pawel-pozorski-0b122520b)
 
 <!--
 **Pawlo77/Pawlo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
