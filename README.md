@@ -10,28 +10,28 @@ I'm into data analysis, developing <b>maschine-learning</b> architectures and <b
 ## 🖨️ Languages and technologies:
 <dl>
     <dt>
-        <a href="https://www.python.org"><img src="img/python.png" height="40em" align="center" style="padding:0.5em" alt="Python" title="Python"/>Python</a>
+        <a href="https://www.python.org"><img src="img/python.png" height="40em" align="center" style="padding:0.5em" alt="Python" title="Python"/>&nbsp;Python</a>
     </dt>
     <dd>
-        <a href="https://www.tensorflow.org"><img src="img/tensorflow.png" height="40em" style="padding:0.5em" align="center" alt="Tensorflow" title="Tensorflow"/>Tensorflow</a>
+        <a href="https://www.tensorflow.org"><img src="img/tensorflow.png" height="40em" style="padding:0.5em" align="center" alt="Tensorflow" title="Tensorflow"/>&nbsp;Tensorflow</a>
     </dd>
     <dd>
-        <a href="https://scikit-learn.org/stable/"><img src="img/sklearn.png" height="40em" align="center" alt="Scikit-learn" style="padding:0.5em" title="Scikit-learn"/>Scikit-learn</a>
+        <a href="https://scikit-learn.org/stable/"><img src="img/sklearn.png" height="40em" align="center" alt="Scikit-learn" style="padding:0.5em" title="Scikit-learn"/>&nbsp;Scikit-learn</a>
     </dd>
     <dd>
-        <a href="https://www.djangoproject.com"><img src="img/django.png" height="40em" style="padding:0.5em" align="center" alt="Django" title="Django"/>Django</a>
+        <a href="https://www.djangoproject.com"><img src="img/django.png" height="40em" style="padding:0.5em" align="center" alt="Django" title="Django"/>&nbsp;Django</a>
     </dd>
     <dt>
-        <a href="https://git-scm.com"><img src="img/git.png" height="40em" align="center" alt="Git" style="padding:0.5em" title="Git"/>Git</a>
+        <a href="https://git-scm.com"><img src="img/git.png" height="40em" align="center" alt="Git" style="padding:0.5em" title="Git"/>&nbsp;Git</a>
     </dt>
     <dt>
-        <a href="https://www.gnu.org/software/bash/"><img src="img/bash.png" height="40em" style="padding:0.5em" align="center" alt="Bash" title="Bash"/>Bash</a>
+        <a href="https://www.gnu.org/software/bash/"><img src="img/bash.png" height="40em" style="padding:0.5em" align="center" alt="Bash" title="Bash"/>&nbsp;Bash</a>
     </dt>
     <dt>
-        <a href="https://en.wikipedia.org/wiki/SQL"><img src="img/sql.png" height="40em" align="center" style="padding:0.5em" alt="SQL" title="SQL"/>SQL</a>
+        <a href="https://en.wikipedia.org/wiki/SQL"><img src="img/sql.png" height="40em" align="center" style="padding:0.5em" alt="SQL" title="SQL"/>&nbsp;SQL</a>
     </dt>
     <dt>
-        <a href="https://www.docker.com"><img src="img/docker.png" height="40em" align="center" style="padding:0.5em" alt="Docker" title="Docker"/>Docker</a>
+        <a href="https://www.docker.com"><img src="img/docker.png" height="40em" align="center" style="padding:0.5em" alt="Docker" title="Docker"/>&nbsp;Docker</a>
     </dt>
 </dl>
 
