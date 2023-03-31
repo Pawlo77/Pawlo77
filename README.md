@@ -40,6 +40,15 @@ You can easily reach me at the mail in my github profile. Feel free to follow me
 
 [<img src="img/linkedin.png" height="30em" align="center" alt="Follow Pawlo77 on LinkedIn" title="Follow Pawlo77 on LinkedIn"/>](https://www.linkedin.com/in/pawel-pozorski-0b122520b)
 
+## Other
+If needed, I know basis of java, R and C++.<br>
+My GeeksForGeeks <a href="https://auth.geeksforgeeks.org/user/pawpoz16/">account</a>
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawlo77&layout=compact&include_all_commits=true&count_private=true)](https://github.com/Pawlo77/github-readme-stats)
+
+
 <!--
 **Pawlo77/Pawlo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
