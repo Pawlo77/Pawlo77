@@ -34,28 +34,6 @@ Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
 
 ### Featured projects
 
-<div align="center">
-  <a href="https://github.com/Pawlo77/nlp-shap">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=nlp-shap&hide_border=true&show_owner=true" alt="nlp-shap" />
-  </a>
-  <a href="https://github.com/Pawlo77/lm-studio-dash">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=lm-studio-dash&hide_border=true&show_owner=true" alt="lm-studio-dash" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Pawlo77/AutoPrep">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=AutoPrep&hide_border=true&show_owner=true" alt="AutoPrep" />
-  </a>
-  <a href="https://github.com/Pawlo77/Galaxy-Images-Clustering">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=Galaxy-Images-Clustering&hide_border=true&show_owner=true" alt="Galaxy-Images-Clustering" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Pawlo77/MLLM-Shap">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=MLLM-Shap&hide_border=true&show_owner=true" alt="MLLM-Shap (deprecated)" />
-  </a>
-</div>
-
 | Project | Notes |
 |--------|--------|
 | **[nlp-shap](https://github.com/Pawlo77/nlp-shap)** · [docs](https://pawlo77.github.io/nlp-shap/) · [PyPI](https://pypi.org/project/nlp-shap/) | Active Shapley-style explainability for NLP / multimodal LLM pipelines |
@@ -98,9 +76,6 @@ Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
 ### GitHub stats
 
 <div align="center">
-
-| <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=Pawlo77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" /> | <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Pawlo77&layout=compact&include_all_commits=true&count_private=true&hide_border=true&langs_count=8" alt="Top languages" /> |
-| :---: | :---: |
 
 <img src="https://streak-stats.demolab.com?user=Pawlo77&hide_border=true" alt="GitHub streak" height="165" />
 
