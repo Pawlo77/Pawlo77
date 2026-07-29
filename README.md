@@ -36,26 +36,23 @@ Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
 
 <div align="center">
   <a href="https://github.com/Pawlo77/nlp-shap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=nlp-shap&hide_border=true&show_owner=true" alt="nlp-shap" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=nlp-shap&hide_border=true&show_owner=true" alt="nlp-shap" />
   </a>
   <a href="https://github.com/Pawlo77/lm-studio-dash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=lm-studio-dash&hide_border=true&show_owner=true" alt="lm-studio-dash" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=lm-studio-dash&hide_border=true&show_owner=true" alt="lm-studio-dash" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Pawlo77/AutoPrep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=AutoPrep&hide_border=true&show_owner=true" alt="AutoPrep" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=AutoPrep&hide_border=true&show_owner=true" alt="AutoPrep" />
   </a>
-  <a href="https://github.com/Pawlo77/ET-COME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=ET-COME&hide_border=true&show_owner=true" alt="ET-COME" />
+  <a href="https://github.com/Pawlo77/Galaxy-Images-Clustering">
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=Galaxy-Images-Clustering&hide_border=true&show_owner=true" alt="Galaxy-Images-Clustering" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Pawlo77/Galaxy-Images-Clustering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=Galaxy-Images-Clustering&hide_border=true&show_owner=true" alt="Galaxy-Images-Clustering" />
-  </a>
   <a href="https://github.com/Pawlo77/MLLM-Shap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pawlo77&repo=MLLM-Shap&hide_border=true&show_owner=true" alt="MLLM-Shap (deprecated)" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=Pawlo77&repo=MLLM-Shap&hide_border=true&show_owner=true" alt="MLLM-Shap (deprecated)" />
   </a>
 </div>
 
@@ -65,7 +62,6 @@ Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
 | **[MLLM-Shap](https://github.com/Pawlo77/MLLM-Shap)** | Deprecated predecessor — kept for ACL 2026 / thesis lineage; use **nlp-shap** for new work |
 | **[lm-studio-dash](https://github.com/Pawlo77/lm-studio-dash)** | Local LM Studio dashboard (usage, hardware, chat analytics) |
 | **[AutoPrep](https://github.com/Pawlo77/AutoPrep)** · [PyPI](https://pypi.org/project/auto-prep/) | AutoML preprocessing + explainability + LaTeX reports |
-| **[ET-COME](https://github.com/Pawlo77/ET-COME)** | Class-imbalance research: Equilibrium Transport with Conformal Minority Expansion |
 | **[Galaxy-Images-Clustering](https://github.com/Pawlo77/Galaxy-Images-Clustering)** | Clustering low-resolution galaxy images |
 
 ---
@@ -103,7 +99,7 @@ Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Pawlo77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawlo77&layout=compact&include_all_commits=true&count_private=true&hide_border=true&langs_count=8" alt="Top languages" /> |
+| <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=Pawlo77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" /> | <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Pawlo77&layout=compact&include_all_commits=true&count_private=true&hide_border=true&langs_count=8" alt="Top languages" /> |
 | :---: | :---: |
 
 <img src="https://streak-stats.demolab.com?user=Pawlo77&hide_border=true" alt="GitHub streak" height="165" />
