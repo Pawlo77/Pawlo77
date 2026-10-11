@@ -68,6 +68,17 @@ An open-source platform that extends Shapley-value attribution from text-only LL
 
 Also SQL, Snowflake (SnowPro Core certified), Hugging Face Transformers and Streamlit.
 
+## Activity
+
+<div align="center">
+
+<img src="./profile/stats.svg" alt="GitHub stats" />
+<img src="./profile/top-langs.svg" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Pawlo77&hide_border=true" alt="GitHub streak" height="165" />
+
+</div>
+
 ---
 
 <div align="center">
