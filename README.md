@@ -78,9 +78,11 @@ Full list on [ORCID](https://orcid.org/0009-0007-0728-1043).
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake, SnowPro Core certified" />
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
 </div>
-
-Also SQL, Snowflake (SnowPro Core certified), Hugging Face Transformers and Streamlit.
 
 **How I set up projects.** Almost everything is Python 3.12+ managed with `uv`, linted with `ruff` and `mypy`, tested with `pytest`, checked by pre-commit hooks and built in GitHub Actions, with Sphinx for docs and a Makefile for the common commands. Experiments are tracked in MLflow and configured from YAML. For tabular work I reach for LightGBM, XGBoost and SHAP; for geo and data-heavy side projects, DuckDB, GeoPandas and OSMnx. Cursor, Claude Code and Codex all have a place in the repos, with `AGENTS.md` files and a notes vault so they share context.
 
