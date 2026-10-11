@@ -1,136 +1,78 @@
 <div align="center">
 
-# Paul Pozorski
+# Paweł Pozorski
 
-**Data scientist & NLP researcher** · Warsaw
-
-Explainable multimodal LLMs · applied ML · open-source research tooling
+Data science, NLP and explainability · Warsaw
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-pozorski)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0728-1043)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pozorski.paul@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/search/?q=pozorski)
+[![PyPI](https://img.shields.io/badge/PyPI-packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Pawlo77/)
 
 </div>
 
 ---
 
-### Hi
+I'm doing an MSc in Data Science at [Warsaw University of Technology](https://www.mini.pw.edu.pl), where I also finished my BSc with honors. I write Python and SQL for a living, and in my free time I try to work out why large models say what they say.
 
-I study **Data Science** (MSc) at [Warsaw University of Technology](https://www.mini.pw.edu.pl) — BSc with honors. I care about making **multimodal LLMs explainable** and turning research into tools people can actually install and reuse.
+My bachelor's thesis turned into a paper on explaining text-audio language models with Shapley values. Along the way I got into the less glamorous part of research: packaging code so other people can install it, rerun it and get the same numbers. I'm also co-founder of [Botuj](https://botuj.pl), an AI chat and voice assistant for customer support.
 
-Most of my recent work sits at the intersection of **NLP**, **Shapley-value XAI**, and **practical data science**. I previously built [Botuj](https://botuj.pl) (AI chat + voice); I’m no longer actively developing it.
+## Research
 
-Roles & experience → [LinkedIn](https://www.linkedin.com/in/pawel-pozorski)
+**mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models**
+Jakub Muszyński, Paweł Pozorski, Maria Ganzha
+*ACL 2026, System Demonstrations*, pp. 387–396
 
----
+An open-source platform that extends Shapley-value attribution from text-only LLMs to models that take both text and audio. It masks each modality separately, tracks multi-turn conversations, and groups audio tokens by phonetic alignment, which shrinks the number of coalitions to evaluate by 10–50×.
 
-### Right now
-
-- Extending **[nlp-shap](https://github.com/Pawlo77/nlp-shap)** — Shapley-style explainability for text / multimodal models
-- Preparing the **ACL 2026** System Demonstration for *mllm-shap*
-- Open to chats about XAI, reproducible AutoML, and local LLM tooling
-
----
-
-### Selected work
-
-<div align="center">
-  <a href="https://github.com/Pawlo77/nlp-shap">
-    <img src="./profile/pin-nlp-shap.svg" alt="nlp-shap" />
-  </a>
-  <a href="https://github.com/Pawlo77/lm-studio-dash">
-    <img src="./profile/pin-lm-studio-dash.svg" alt="lm-studio-dash" />
-  </a>
-</div>
-
-| | Project | What it is |
-|---|---|---|
-| **Flagship** | **[nlp-shap](https://github.com/Pawlo77/nlp-shap)** · [docs](https://pawlo77.github.io/nlp-shap/) · [PyPI](https://pypi.org/project/nlp-shap/) | Shapley-style explainability library for NLP / multimodal LLM pipelines |
-| **Tools** | **[lm-studio-dash](https://github.com/Pawlo77/lm-studio-dash)** | Dashboard for local LM Studio usage, hardware, and chat analytics |
-| **Tools** | **[AutoPrep](https://github.com/Pawlo77/AutoPrep)** · [PyPI](https://pypi.org/project/auto-prep/) | AutoML preprocessing, explainability, and LaTeX reporting |
-| **Archive** | **[MLLM-Shap](https://github.com/Pawlo77/MLLM-Shap)** | Thesis / ACL predecessor of nlp-shap |
-| **Coursework** | **[Galaxy-Images-Clustering](https://github.com/Pawlo77/Galaxy-Images-Clustering)** | Clustering low-resolution galaxy images (WUT) |
-
----
-
-### Research
-
-**mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models**  
-ACL 2026 System Demonstrations — with Jakub Muszyński & Maria Ganzha
-
-Attribution for text–audio multimodal LLMs: modality-aware masking, multi-turn conversation tracking, and phonetic audio grouping.
-
-[nlp-shap](https://github.com/Pawlo77/nlp-shap) · [MLLM-Shap](https://github.com/Pawlo77/MLLM-Shap) · [Zenodo](https://zenodo.org/records/19678283) · [DOI](https://doi.org/10.5281/zenodo.19678283) · [ORCID](https://orcid.org/0009-0007-0728-1043)
+[Paper](https://aclanthology.org/2026.acl-demo.38/) · [PDF](https://aclanthology.org/2026.acl-demo.38.pdf) · [Code](https://github.com/Pawlo77/MLLM-SHAP) · [Docs](https://pawlo77.github.io/MLLM-SHAP/) · [PyPI](https://pypi.org/project/mllm-shap/)
 
 <details>
 <summary>Cite</summary>
 
 ```bibtex
-@software{pozorski2026mllmshap,
-  author    = {Pozorski, Pawe{\l} Dominik and Muszy{\'n}ski, Jakub Mi{\l}osz and Ganzha, Maria},
-  title     = {mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models},
-  year      = {2026},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19678283},
-  url       = {https://zenodo.org/records/19678283}
+@inproceedings{muszynski-etal-2026-mllm,
+    title = "mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models",
+    author = "Muszy{\'n}ski, Jakub and Pozorski, Pawe{\l} and Ganzha, Maria",
+    editor = "Durrett, Greg and Jian, Ping",
+    booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California",
+    publisher = "Association for Computational Linguistics",
+    pages = "387--396",
+    doi = "10.18653/v1/2026.acl-demo.38"
 }
 ```
 
 </details>
 
----
+## What I'm working on
 
-### Background
+- **[MLLM-SHAP](https://github.com/Pawlo77/MLLM-SHAP)** is the library behind the paper. It's now growing into a general tool for conversational models: Shapley and Banzhaf attributions, reproducible run archives, and backends for Hugging Face, LM Studio and OpenAI-compatible APIs.
+- **[mllm-xai](https://github.com/Pawlo77/mllm-xai)** is the research workspace around it, with experiments and write-ups driven by YAML configs.
+- **[happy-housing](https://github.com/Pawlo77/happy-housing)** is a side project for the Warsaw housing market. It estimates fair prices and shows explainable maps built only from open data.
 
-| | |
-|---|---|
-| Education | MSc Data Science @ WUT · BSc with honors |
-| Built | [Botuj](https://botuj.pl) — AI chat + voice support |
-| Cert | SnowPro Core |
-| Based in | Warsaw |
+## Other projects
 
----
+- **[AutoPrep](https://github.com/Pawlo77/AutoPrep)** ([PyPI](https://pypi.org/project/auto-prep/)): automated preprocessing for ML, with explainability and reports.
+- **[lm-studio-dash](https://github.com/Pawlo77/lm-studio-dash)**: a dashboard for model usage and hardware load when running LM Studio on a Mac.
+- **[python-package-template](https://github.com/Pawlo77/python-package-template)** and **[python-project-template](https://github.com/Pawlo77/python-project-template)**: the uv-based scaffolds I start new packages and experiments from.
+- University work: speech recognition with transformers, anomaly detection, clustering, CINIC-10 classification and a few more, all in my repositories.
 
-### Tools
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,git,linux,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,git,linux,vscode" alt="Python, PyTorch, scikit-learn, FastAPI, Docker, Git, Linux, VS Code" />
 </div>
 
-<p align="center">
-  <code>Python</code>
-  <code>PyTorch</code>
-  <code>scikit-learn</code>
-  <code>Transformers</code>
-  <code>FastAPI</code>
-  <code>SQL</code>
-  <code>Snowflake</code>
-  <code>Docker</code>
-  <code>Streamlit</code>
-</p>
-
----
-
-### Activity
-
-<div align="center">
-
-<img src="./profile/stats.svg" alt="GitHub stats" />
-<img src="./profile/top-langs.svg" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Pawlo77&hide_border=true" alt="GitHub streak" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawlo77&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area_color=0e75b6&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
+Also SQL, Snowflake (SnowPro Core certified), Hugging Face Transformers and Streamlit.
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by.**  
-Reach me on [LinkedIn](https://www.linkedin.com/in/pawel-pozorski) · [email](mailto:pozorski.paul@gmail.com) · [ORCID](https://orcid.org/0009-0007-0728-1043)  
-Feedback welcome on [nlp-shap](https://github.com/Pawlo77/nlp-shap/issues).
+Happy to talk about explainability, speech and language models, or reproducible ML.
+[LinkedIn](https://www.linkedin.com/in/pawel-pozorski) · [Email](mailto:pozorski.paul@gmail.com)
 
 </div>
