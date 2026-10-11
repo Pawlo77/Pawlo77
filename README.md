@@ -70,6 +70,13 @@ Full list on [ORCID](https://orcid.org/0009-0007-0728-1043).
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,git,linux,vscode" alt="Python, PyTorch, scikit-learn, FastAPI, Docker, Git, Linux, VS Code" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 </div>
 
 Also SQL, Snowflake (SnowPro Core certified), Hugging Face Transformers and Streamlit.
