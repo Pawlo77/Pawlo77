@@ -19,7 +19,11 @@ My bachelor's thesis turned into a paper on explaining text-audio language model
 
 ## Research
 
-**mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models**
+My work so far is about explaining multimodal language models. Newest first.
+
+### 2026
+
+**[mllm-shap: A Shapley Value Explainability Platform for Text-Audio Multimodal Large Language Models](https://aclanthology.org/2026.acl-demo.38/)**
 Jakub Muszyński, Paweł Pozorski, Maria Ganzha
 *ACL 2026, System Demonstrations*, pp. 387–396
 
@@ -28,7 +32,7 @@ An open-source platform that extends Shapley-value attribution from text-only LL
 [Paper](https://aclanthology.org/2026.acl-demo.38/) · [PDF](https://aclanthology.org/2026.acl-demo.38.pdf) · [Code](https://github.com/Pawlo77/MLLM-SHAP) · [Docs](https://pawlo77.github.io/MLLM-SHAP/) · [PyPI](https://pypi.org/project/mllm-shap/)
 
 <details>
-<summary>Cite</summary>
+<summary>BibTeX</summary>
 
 ```bibtex
 @inproceedings{muszynski-etal-2026-mllm,
@@ -46,6 +50,8 @@ An open-source platform that extends Shapley-value attribution from text-only LL
 ```
 
 </details>
+
+Full list on [ORCID](https://orcid.org/0009-0007-0728-1043).
 
 ## What I'm working on
 
