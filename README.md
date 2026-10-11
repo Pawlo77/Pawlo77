@@ -7,7 +7,7 @@ Data science, NLP and explainability · Warsaw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-pozorski)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0728-1043)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pozorski.paul@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mllm-shap/)
+[![PyPI](https://img.shields.io/badge/PyPI-packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Pawlo_77/)
 
 </div>
 
