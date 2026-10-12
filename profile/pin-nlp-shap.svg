@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Pawlo77/nlp-shap</text>
+      >Pawlo77/MLLM-SHAP</text>
     </g>
       </g>
     
@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Multimodal explainability library for NLP based on Shapley</tspan><tspan dy="1.2em" x="25">value.</tspan>
+      <tspan dy="1.2em" x="25">mllm-shap: Shapley-value explainability for conversational</tspan><tspan dy="1.2em" x="25">and multimodal language models.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
