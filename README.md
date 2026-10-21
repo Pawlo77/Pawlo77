@@ -15,7 +15,7 @@ Data science, NLP and explainability · Warsaw
 
 I'm doing an MSc in Data Science at [Warsaw University of Technology](https://www.mini.pw.edu.pl), where I also finished my BSc with honors. I write Python and SQL for a living, and in my free time I try to work out why large models say what they say.
 
-My bachelor's thesis turned into a paper on explaining text-audio language models with Shapley values. Along the way I got into the less glamorous part of research: packaging code so other people can install it, rerun it and get the same numbers. I'm also co-founder of [Botuj](https://botuj.pl), an AI chat and voice assistant for customer support.
+My bachelor's thesis turned into a paper on explaining text-audio language models with Shapley values. Along the way I got into the less glamorous part of research: packaging code so other people can install it, rerun it and get the same numbers.
 
 ## Research
 
