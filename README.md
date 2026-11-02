@@ -93,8 +93,6 @@ Full list on [ORCID](https://orcid.org/0009-0007-0728-1043).
 <img src="./profile/stats.svg" alt="GitHub stats" />
 <img src="./profile/top-langs.svg" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Pawlo77&hide_border=true" alt="GitHub streak" height="165" />
-
 </div>
 
 ---
