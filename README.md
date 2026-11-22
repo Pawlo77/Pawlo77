@@ -19,7 +19,7 @@ My bachelor's thesis turned into a paper on explaining text-audio language model
 
 ## Research
 
-My work so far is about explaining multimodal language models. Newest first.
+My work so far is about explaining multimodal language models.
 
 ### 2026
 
@@ -63,7 +63,6 @@ Full list on [ORCID](https://orcid.org/0009-0007-0728-1043).
 
 - **[AutoPrep](https://github.com/Pawlo77/AutoPrep)** ([PyPI](https://pypi.org/project/auto-prep/)): automated preprocessing for ML, with explainability and reports.
 - **[lm-studio-dash](https://github.com/Pawlo77/lm-studio-dash)**: a dashboard for model usage and hardware load when running LM Studio on a Mac.
-- **[python-package-template](https://github.com/Pawlo77/python-package-template)** and **[python-project-template](https://github.com/Pawlo77/python-project-template)**: the uv-based scaffolds I start new packages and experiments from.
 - University work: speech recognition with transformers, anomaly detection, clustering, CINIC-10 classification and a few more, all in my repositories.
 
 ## Stack
